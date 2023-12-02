@@ -1,0 +1,26 @@
+.main-details-app {
+    width: 700px;
+    margin: auto;
+}
+
+.services-list {
+    all: unset;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+
+    background: #5793ee;
+}
+
+
+.service {
+    all: unset;
+    color: ghostwhite;
+    padding: 5px 10px;
+    background: #5793ee;
+}
+
+.service a {
+    color:aliceblue;
+    text-decoration: none;
+}
